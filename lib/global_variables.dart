@@ -1,0 +1,38 @@
+final List<Map<String, dynamic>> products = [
+  {
+    'id': '0',
+    'title': 'Air Jordan 1 Mid',
+    'price': 11495,
+    'category': 'women',
+    'imageUrl': 'assets/images/shoes_1.png',
+    'brand': 'Nike',
+    'sizes': [9, 10, 11, 12],
+  },
+  {
+    'id': '1',
+    'title': 'Nike Air Max Dn',
+    'price': 13995,
+    'category': 'men',
+    'imageUrl': 'assets/images/shoes_2.png',
+    'brand': 'Nike',
+    'sizes': [9, 10, 12],
+  },
+  {
+    'id': '2',
+    'title': 'Forum Low Shoes',
+    'price': 9999,
+    'category': 'men',
+    'imageUrl': 'assets/images/shoes_3.png',
+    'brand': 'Adidas',
+    'sizes': [8, 9, 10],
+  },
+  {
+    'id': '3',
+    'title': 'Puma Skyrocket Lite',
+    'price': 2999,
+    'category': 'unisex',
+    'imageUrl': 'assets/images/shoes_4.png',
+    'brand': 'Puma',
+    'sizes': [8, 9, 10],
+  },
+];
